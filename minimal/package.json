@@ -1,0 +1,18 @@
+{
+  "name": "gatsby-starter-luk707-minimal",
+  "version": "1.0.0",
+  "description": "Gatsby minimal starter",
+  "main": "index.js",
+  "author": "Luke Harris <lukeharris01170@gmail.com>",
+  "license": "MIT",
+  "private": false,
+  "dependencies": {
+    "gatsby": "^2.0.91",
+    "react": "^16.7.0",
+    "react-dom": "^16.7.0"
+  },
+  "scripts": {
+    "build": "gatsby build",
+    "dev": "gatsby develop"
+  }
+}

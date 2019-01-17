@@ -1,0 +1,12 @@
+{
+  "name": "@luk707/components",
+  "version": "3.0.0",
+  "description": "React component library",
+  "main": "index.js",
+  "author": "Luke Harris <lukeharris01170@gmail.com>",
+  "license": "MIT",
+  "private": false,
+  "dependencies": {
+    "react": "^16.7.0"
+  }
+}
